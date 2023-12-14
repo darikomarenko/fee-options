@@ -6,6 +6,7 @@ function App() {
   const tariffs = feedata;
   return (
     <div className="App">
+      <h1>Выберите тариф:</h1>
       <FeeList data={tariffs}/>
     </div>
   );
