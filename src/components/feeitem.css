@@ -15,6 +15,11 @@
     cursor: pointer;
   }
 
+  /* .fee-item.selected {
+    border-color: rgb(223, 23, 16);
+    box-shadow: 5px 5px 10px rgba(6, 229, 241, 0.2);
+  } */
+
   .fee-item:hover {
     width: 260px;
     height: 320px;
